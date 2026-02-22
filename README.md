@@ -22,7 +22,6 @@ This project merges the **admin dashboard UI**, **social feed**, and **event pla
 
 ```bash
 cd server
-cp .env.example .env
 npm install
 npm run dev
 ```
@@ -37,7 +36,6 @@ npm run seed
 
 ```bash
 cd client
-cp .env.example .env
 npm install
 npm run dev
 ```
